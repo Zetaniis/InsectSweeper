@@ -1,6 +1,8 @@
 # my ignores
 .idea/
 *.xcf
+output/
+InsectSweeper/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
