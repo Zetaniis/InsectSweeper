@@ -19,7 +19,7 @@ There are two generation modes for insects:
 - [boardGenerator.py](./boardGenerator.py) - providing raw array data with insects to board object 
 
 ## Release
-[Link to release]
+[Link to release](https://github.com/Zetaniis/InsectSweeper/releases)
 
 ## Packages
 Main packages used in this application:
